@@ -1,6 +1,6 @@
 main:
-  - title: "Home"
-  url: /index/
+  - title: '<i class="fas fa-fw fa-home" aria-hidden="true"></i>'
+    url: /
   - title: "Math"
     url: /math/
   - title: "Blog"
