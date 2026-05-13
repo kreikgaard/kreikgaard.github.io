@@ -10,7 +10,5 @@ I am Shubham Kumar. I am currently a 3rd year PhD student in math at Ashoka Univ
 
 My Research interests are geometric structures and dynamics on manifolds. 
 
-% ## Publications
-
-% ## 
+# Publications
 
