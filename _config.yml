@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Too dumb for symmetric spaces, too curious to stop
-email: shubham.kumar_phd23@ashoka.edu.in
+# email: shubham.kumar_phd23@ashoka.edu.in
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+# twitter_username: username
+# github_username: username
 minimal_mistakes_skin: mint
 search: true
 
@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "Shubham Kumar"
   avatar : "/assets/images/silly-me.jpg"
-  bio    : "Graduate student in math. Interested in geometry and dynamics."
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:shubham.kumar3951@gmail.com"
+  # bio    : "Graduate student in math. Interested in geometry and dynamics."
+  # links:
+  #  - label: "Email"
+  #    icon: "fas fa-fw fa-envelope"
+  #    url: "mailto:shubham.kumar3951@gmail.com"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
