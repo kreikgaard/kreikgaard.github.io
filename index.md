@@ -6,4 +6,11 @@ layout: single
 author_profile: true
 ---
 
-I am a PhD student in Math at Ashoka University. My research interests are in geometry and dynamics. 
+I am Shubham Kumar. I am currently a 3rd year PhD student in math at Ashoka University. My advisor is [Sourav Ghosh](https://sites.google.com/site/souravghoshbagui/home). 
+
+My Research interests are geometric structures and dynamics on manifolds. 
+
+% ## Publications
+
+% ## 
+
