@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+  url: /index/
   - title: "Math"
     url: /math/
   - title: "Blog"
